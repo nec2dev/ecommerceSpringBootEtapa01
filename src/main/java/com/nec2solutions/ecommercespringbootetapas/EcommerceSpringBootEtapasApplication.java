@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 @SpringBootApplication
 public class EcommerceSpringBootEtapasApplication {
-
     public static void main(String[] args) {
         SpringApplication.run(EcommerceSpringBootEtapasApplication.class, args);
     }
